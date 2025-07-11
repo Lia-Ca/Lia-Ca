@@ -5,7 +5,7 @@
 ---
 ## 📜 Frase favorita
 
-> "" Dices que es muy tarde para empezar, ¿pero sabes qué? Eres mucho mejor que eso.""  - Lia 💡
+> *Dices que es muy tarde para empezar, ¿pero sabes qué? Eres mucho mejor que eso.* – Lia 💡
 
 ---
 # Sobre mí
@@ -27,7 +27,7 @@
 ---
 ## 🚀 Mis objetivos para este año
 
-- ✅ Completar un proyecto con Java(Funcional y con las respectivas pruebas)
+- ✅ Completar un proyecto con Java(funcional y con las respectivas pruebas)
 - 🔄 Mejorar mi lógica de programación
 - 🔄 Crear mi primer sitio web personal
   
