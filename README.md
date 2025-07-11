@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola, soy Lia Cardenas Morales!
 🎓  Estudiante de Ingeniería Informática 
-📍  Bolivia |  💻 Apasionada por la tecnología y el aprendizaje constante.
+-📍  Bolivia |  💻 Apasionada por la tecnología y el aprendizaje constante.
 
 ---
 ## 📜 Frase favorita
@@ -27,7 +27,7 @@
 ---
 ## 🚀 Mis objetivos para este año
 
-- ✅ Completar un proyecto con Java(funcional y con las respectivas pruebas)
-- 🔄 Mejorar mi lógica de programación
-- 🔄 Crear mi primer sitio web personal
+- ✅ Completar un proyecto con Java (funcional y con las respectivas pruebas).
+- 🔄 Mejorar mi lógica de programación.
+- 🔄 Crear mi primer sitio web personal.
   
