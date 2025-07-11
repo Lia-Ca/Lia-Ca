@@ -1,6 +1,6 @@
 # 👩‍💻 ¡Hola, soy Lia Cardenas Morales!
 🎓  Estudiante de Ingeniería Informática 
--📍  Bolivia |  💻 Apasionada por la tecnología y el aprendizaje constante.
+📍  Bolivia |  💻 Apasionada por la tecnología y el aprendizaje constante.
 
 ---
 ## 📜 Frase favorita
